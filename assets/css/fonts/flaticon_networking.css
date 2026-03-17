@@ -1,9 +1,9 @@
 @font-face {
-  font-family: "flaticon_vlogi";
-  src: url("flaticon_vlogi396b.ttf?4358b9d993909741f1028822c2cdf01c") format("truetype"), url("flaticon_vlogi396b.woff?4358b9d993909741f1028822c2cdf01c") format("woff"), url("flaticon_vlogi396b.html?4358b9d993909741f1028822c2cdf01c") format("woff2"), url("flaticon_vlogi396b.eot?4358b9d993909741f1028822c2cdf01c#iefix") format("embedded-opentype"), url("flaticon_vlogi396b.svg?4358b9d993909741f1028822c2cdf01c#flaticon_vlogi") format("svg");
+  font-family: "flaticon_networking";
+  src: url("flaticon_networking396b.ttf?4358b9d993909741f1028822c2cdf01c") format("truetype"), url("flaticon_networking396b.woff?4358b9d993909741f1028822c2cdf01c") format("woff"), url("flaticon_networking396b.html?4358b9d993909741f1028822c2cdf01c") format("woff2"), url("flaticon_networking396b.eot?4358b9d993909741f1028822c2cdf01c#iefix") format("embedded-opentype"), url("flaticon_networking396b.svg?4358b9d993909741f1028822c2cdf01c#flaticon_networking") format("svg");
 }
 i[class^=flaticon-]:before, i[class*=" flaticon-"]:before {
-  font-family: flaticon_vlogi !important;
+  font-family: flaticon_networking !important;
   font-style: normal;
   font-weight: normal !important;
   font-variant: normal;
@@ -67,4 +67,4 @@ i[class^=flaticon-]:before, i[class*=" flaticon-"]:before {
 
 .flaticon-twitter:before {
   content: "\f10e";
-}/*# sourceMappingURL=flaticon_vlogi.css.map */
+}/*# sourceMappingURL=flaticon_networking.css.map */

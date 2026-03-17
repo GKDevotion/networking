@@ -65,7 +65,7 @@ $jurisdictions = $regions[$active_region];
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Vlogi - Personal Blog Template">
+    <meta name="description" content="Networking - Personal Blog Template">
     <meta name="keywords" content="blog,personal,photography,food,travel,agency,portfolio,developer,photographer">
     <title> Home Variation 3 </title>
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
@@ -76,7 +76,7 @@ $jurisdictions = $regions[$active_region];
     <!-- Bootstrap Icons -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet"/>
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="assets/css/fonts/flaticon_vlogi.css">
+    <link rel="stylesheet" href="assets/css/fonts/flaticon_networking.css">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fonts/typography-1.css">
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">

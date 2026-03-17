@@ -483,7 +483,7 @@
 
     .vlo-main-menu .nav-menu li.menu-item-has-children:before {
         content: "\f101";
-        font-family: flaticon_vlogi;
+        font-family: flaticon_networking;
         position: absolute;
         border-radius: 50%;
         color: #2d333d;
@@ -731,7 +731,7 @@
 
     .menu-item-has-children:before {
         content: "\f102";
-        font-family: flaticon_vlogi;
+        font-family: flaticon_networking;
         position: absolute;
         right: 0;
         top: 10px;

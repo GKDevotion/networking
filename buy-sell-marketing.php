@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Vlogi - Personal Blog Template">
+    <meta name="description" content="Networking - Personal Blog Template">
     <meta name="keywords" content="blog,personal,photography,food,travel,agency,portfolio,developer,photographer">
     <title> Marketing Blog </title>
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
@@ -12,7 +12,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet" />
 
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="assets/css/fonts/flaticon_vlogi.css">
+    <link rel="stylesheet" href="assets/css/fonts/flaticon_networking.css">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fonts/typography-1.css">
     <link rel="stylesheet" href="assets/css/elements/populer-posts.css">
@@ -429,7 +429,6 @@
 
     <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"32aec90585da45268168b185959e7935","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
-
-<!-- Mirrored from thecodude.com/demo/tf/vlogi/marketing-blog.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 17 Mar 2026 05:10:07 GMT -->
+ 
 
 </html>
