@@ -1,0 +1,86 @@
+.vlo-categories-1 {
+    padding: 100px 0;
+    z-index: 1;
+    background-color: #fff;
+}
+
+.vlo-categories-1 .vlo-categories-img img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.vlo-categories-1 .vlo-categories-title a {
+    color: #2D333D;
+}
+
+.vlo-categories-1 .vlo-categories-single:hover .vlo-categories-title a {
+    color: #24BCEB;
+}
+
+
+.vlo-categories-1 .categories-count {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #2D333D;
+    opacity: 0.7;
+}
+
+.vlo-categories-1 .swiper {
+    padding-top: 100px;
+    margin-top: -100px;
+}
+
+.vlo-categories-1 .swiper-button-next,
+.vlo-categories-1 .swiper-button-prev {
+    width: 0;
+    height: 0;
+    margin-top: 0;
+}
+
+.vlo-categories-1 .swiper-button-next,
+.vlo-categories-1 .swiper-button-prev {
+    top: 0;
+    background-color: #24BCEB;
+    border: 2px solid #24BCEB;
+    padding: 20px;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+
+.vlo-categories-1 .swiper-button-next.swiper-button-disabled,
+.vlo-categories-1 .swiper-button-prev.swiper-button-disabled {
+    background-color: transparent;
+    border: 2px solid #000;
+    opacity: 1;
+}
+
+.vlo-categories-1 .swiper-button-next.swiper-button-disabled::after,
+.vlo-categories-1 .swiper-button-prev.swiper-button-disabled::after {
+    color: #000;
+    opacity: 1;
+}
+
+.vlo-categories-1 .swiper-button-next:after,
+.vlo-categories-1 .swiper-button-prev:after {
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.vlo-categories-1 .swiper-button-next,
+.vlo-categories-1 .swiper-button-prev {
+    position: initial;
+}
+
+.vlo-categories-1 .categories-navigation {
+    position: absolute;
+    top: 20px;
+    left: 91%;
+    display: flex;
+}
+
+.vlo-categories-1 .categories-navigation .swiper-button-prev {
+    margin-right: 20px;
+    margin-left: 9px;
+}
