@@ -65,7 +65,7 @@ $jurisdictions = $regions[$active_region];
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Networking - Personal Blog Template">
+    <meta name="description" content="Vlogi - Personal Blog Template">
     <meta name="keywords" content="blog,personal,photography,food,travel,agency,portfolio,developer,photographer">
     <title> Home Variation 3 </title>
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
@@ -132,8 +132,8 @@ $jurisdictions = $regions[$active_region];
                             <ul class="sub-menu">
                                 <li><a href="company_formation.php">Company Formation</a></li>
                                 <li><a href="licensing_regulation.php">Licensing & Regulations</a></li>
-                                <li><a href="payment-by-clearsky.php">Payment By Clearsky</a></li>
-                                <li><a href="tech-by-clearsky.php">Tech By Clearsky</a></li> 
+                                <li><a href="payment-by-networking.php">Payment By Networking</a></li>
+                                <li><a href="tech-by-networking.php">Tech By Networking</a></li> 
                             </ul>
                         </li>
 

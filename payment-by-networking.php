@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Networking - Personal Blog Template">
+    <meta name="description" content="Vlogi - Personal Blog Template">
     <meta name="keywords" content="blog,personal,photography,food,travel,agency,portfolio,developer,photographer">
     <title> Home Variation 3 </title>
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
@@ -56,8 +56,8 @@
                             <ul class="sub-menu">
                                 <li><a href="company_formation.php">Company Formation</a></li>
                                 <li><a href="licensing_regulation.php">Licensing & Regulations</a></li>
-                                <li><a href="payment-by-clearsky.php">Payment By Clearsky</a></li>
-                                <li><a href="tech-by-clearsky.php">Tech By Clearsky</a></li> 
+                                <li><a href="payment-by-networking.php">Payment By Networking</a></li>
+                                <li><a href="tech-by-networking.php">Tech By Networking</a></li> 
                             </ul>
                         </li>
 
@@ -72,7 +72,7 @@
     </header>
     <main class="vlo-marketing-about">
         <div class="vlo-title-bar-1 marketing-titlebar-bg">
-            <h1>Tech By Clearsky</h1>
+            <h1>Payment By Networking</h1>
         </div>
  
           
@@ -114,5 +114,5 @@
     
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"32aec90585da45268168b185959e7935","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
-             
+ 
 </html>
