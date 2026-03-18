@@ -19,8 +19,7 @@
     <link rel="stylesheet" href="assets/css/elements/about-us.css">
     <link rel="stylesheet" href="assets/css/elements/contact.css">
     <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet" href="assets/css/elements/tags.css">
-    <link rel="stylesheet" href="assets/css/dark-light.css">
+    <link rel="stylesheet" href="assets/css/elements/tags.css"> 
     <link rel="stylesheet" href="assets/css/styles.css">
 
     <link rel="stylesheet" href="assets/css/responsive.css">
@@ -256,8 +255,7 @@
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/swiper-bundle.min.js"></script>
     <script src="assets/js/acmeticker.min.js"></script>
-    <script src="assets/js/magnific-popup.min.js"></script>
-    <script src="assets/js/dark-mode-switch.min.js"></script>
+    <script src="assets/js/magnific-popup.min.js"></script> 
     <!-- main js  -->
 
     <script src="assets/js/main.js"></script>

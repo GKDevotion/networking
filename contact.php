@@ -16,8 +16,7 @@
     <link rel="stylesheet" href="assets/css/elements/videos.css">
     <link rel="stylesheet" href="assets/css/elements/about-us.css">
     <link rel="stylesheet" href="assets/css/elements/contact.css">
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet" href="assets/css/dark-light.css">
+    <link rel="stylesheet" href="assets/css/animate.css"> 
     <link rel="stylesheet" href="assets/css/styles.css">
 
     <link rel="stylesheet" href="assets/css/responsive.css">
@@ -203,8 +202,7 @@
       <script src="assets/js/jquery.min.js"></script>
       <script src="assets/js/swiper-bundle.min.js"></script>
       <script src="assets/js/magnific-popup.min.js"></script>
-      <script src="assets/js/acmeticker.min.js"></script>
-      <script src="assets/js/dark-mode-switch.min.js"></script>
+      <script src="assets/js/acmeticker.min.js"></script> 
       <!-- main js  -->
       <script src="assets/js/main.js"></script>
    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"32aec90585da45268168b185959e7935","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>

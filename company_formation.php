@@ -292,8 +292,7 @@ $jurisdictions = $regions[$active_region];
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/swiper-bundle.min.js"></script>
     <script src="assets/js/acmeticker.min.js"></script>
-    <script src="assets/js/magnific-popup.min.js"></script>
-    <script src="assets/js/dark-mode-switch.min.js"></script>
+    <script src="assets/js/magnific-popup.min.js"></script> 
     <!-- main js  -->
     <script src="assets/js/main.js"></script>
     

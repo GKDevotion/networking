@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Vlogi - Personal Blog Template">
+    <meta name="description" content="Networking - Personal Blog Template">
     <meta name="keywords" content="blog,personal,photography,food,travel,agency,portfolio,developer,photographer">
     <title> Marketing Blog </title>
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
@@ -17,8 +17,7 @@
     <link rel="stylesheet" href="assets/css/fonts/typography-1.css">
     <link rel="stylesheet" href="assets/css/elements/populer-posts.css">
     <link rel="stylesheet" href="assets/css/elements/blog.css">
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet" href="assets/css/dark-light.css">
+    <link rel="stylesheet" href="assets/css/animate.css"> 
     <link rel="stylesheet" href="assets/css/styles.css">
 
     <link rel="stylesheet" href="assets/css/responsive.css">
@@ -481,8 +480,7 @@
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/swiper-bundle.min.js"></script>
     <script src="assets/js/acmeticker.min.js"></script>
-    <script src="assets/js/magnific-popup.min.js"></script>
-    <script src="assets/js/dark-mode-switch.min.js"></script>
+    <script src="assets/js/magnific-popup.min.js"></script> 
     <!-- main js  -->
     <script src="assets/js/main.js"></script>
 

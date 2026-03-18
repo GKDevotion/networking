@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx">
- 
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,23 +22,23 @@
     <link rel="stylesheet" href="assets/css/elements/tags.css">
     <link rel="stylesheet" href="assets/css/elements/populer-posts.css">
     <link rel="stylesheet" href="assets/css/elements/instagram.css">
-    <link rel="stylesheet" href="assets/css/elements/post-slider.css">
-    <link rel="stylesheet" href="assets/css/dark-light.css">
+    <link rel="stylesheet" href="assets/css/elements/post-slider.css"> 
     <link rel="stylesheet" href="assets/css/styles.css">
 
     <link rel="stylesheet" href="assets/css/responsive.css">
 </head>
+
 <body class="vlo-marketing">
     <header class="vlo-header-1 transparent">
         <div class="container">
             <div class="vlo-header-inner">
                 <div class="vlo-logo-wrap">
                     <a href="index.php" class="vlo-logo">
-                        <img src="assets/images/logo/networking.svg" alt="logo"> 
+                        <img src="assets/images/logo/networking.svg" alt="logo">
                         <!-- <img src="assets/images/logo/networking.svg" alt="logo"> -->
                     </a>
                 </div>
-                
+
                 <nav class="vlo-main-menu">
                     <div class="vlo-offcanvas-wrap">
                         <div class="form-check form-switch vlo-color-mode d-none">
@@ -53,28 +53,28 @@
                     </div>
                     <ul class="nav-menu">
                         <li class=""><a href="marketing-about.php">About</a></li>
-                        
+
                         <li class=""><a href="buy-sell-marketing.php">Buy/Sell Bussinesses</a></li>
-                                               
+
                         <li class="menu-item-has-children"><a href="#">Services</a>
                             <ul class="sub-menu">
                                 <li><a href="company_formation.php">Company Formation</a></li>
                                 <li><a href="licensing_regulation.php">Licensing & Regulations</a></li>
                                 <li><a href="payment-by-networking.php">Payment By Networking</a></li>
-                                <li><a href="tech-by-networking.php">Tech By Networking</a></li> 
+                                <li><a href="tech-by-networking.php">Tech By Networking</a></li>
                             </ul>
                         </li>
 
                         <li class=""><a href="partnership.php">Partnership</a></li>
-                        <li class=""><a href="article.php">Article</a></li> 
+                        <li class=""><a href="article.php">Article</a></li>
                         <li><a class="vlo-global-btn header-btn" href="contact.php">Contact Me</a></li>
 
                     </ul>
                 </nav>
             </div>
-        </div>  
+        </div>
     </header>
-    
+
     <main class="vlo-main">
 
         <!-- Banner -->
@@ -93,7 +93,7 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="banner-content">
-                                        <div class="post-date"> 
+                                        <div class="post-date">
                                         </div>
                                         <div class="bannder-heading">
                                             <h1>Buy or Sell Businesses - Marketplace</h1>
@@ -109,7 +109,7 @@
 
                                 <div class="swiper-slide">
                                     <div class="banner-content">
-                                        <div class="post-date"> 
+                                        <div class="post-date">
                                         </div>
                                         <div class="bannder-heading">
                                             <h1>Company Formation Services</h1>
@@ -125,7 +125,7 @@
 
                                 <div class="swiper-slide">
                                     <div class="banner-content">
-                                        <div class="post-date"> 
+                                        <div class="post-date">
                                         </div>
                                         <div class="bannder-heading">
                                             <h1>Payment Services</h1>
@@ -141,7 +141,7 @@
 
                                 <div class="swiper-slide">
                                     <div class="banner-content">
-                                        <div class="post-date"> 
+                                        <div class="post-date">
                                         </div>
                                         <div class="bannder-heading">
                                             <h1>Licensing & Regulation</h1>
@@ -168,18 +168,18 @@
                                 <img src="assets/images/shape/paper-plen.svg" alt="paper-plen">
                             </div>
                             <svg width="612" height="787" viewBox="0 0 612 787" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                <ellipse cx="306" cy="481.95" rx="306" ry="304.5" fill="#94C8FF"/>
+                                <ellipse cx="306" cy="481.95" rx="306" ry="304.5" fill="#94C8FF" />
                                 <mask id="mask0_338_781" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="-4" width="612" height="791">
-                                    <path d="M612 481.95C612 650.121 474.999 786.45 306 786.45C137.001 786.45 0 650.121 0 481.95C0 370.272 60.4168 272.636 150.5 219.641C102 158.45 133.5 49.65 221.5 14.45C324 -26.55 342.74 5.70037 399.928 62.95C514.82 177.966 612 369.668 612 481.95Z" fill="#CAE4FF"/>
+                                    <path d="M612 481.95C612 650.121 474.999 786.45 306 786.45C137.001 786.45 0 650.121 0 481.95C0 370.272 60.4168 272.636 150.5 219.641C102 158.45 133.5 49.65 221.5 14.45C324 -26.55 342.74 5.70037 399.928 62.95C514.82 177.966 612 369.668 612 481.95Z" fill="#CAE4FF" />
                                 </mask>
                                 <g mask="url(#mask0_338_781)">
-                                    <rect x="61" y="5.44995" width="510" height="786" fill="url(#pattern0)"/>
+                                    <rect x="61" y="5.44995" width="510" height="786" fill="url(#pattern0)" />
                                 </g>
                                 <defs>
                                     <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-                                        <use xlink:href="#image0_338_781" transform="matrix(0.000376264 0 0 0.000244141 -0.000430836 0)"/>
+                                        <use xlink:href="#image0_338_781" transform="matrix(0.000376264 0 0 0.000244141 -0.000430836 0)" />
                                     </pattern>
-                                    <image id="image0_338_781" width="2660" height="4096" xlink:href="assets/images/banner/banner-4.png"/>
+                                    <image id="image0_338_781" width="2660" height="4096" xlink:href="assets/images/banner/banner-4.png" />
                                 </defs>
                             </svg>
                         </div>
@@ -325,7 +325,7 @@
                                             <div class="featured-post-date">
                                                 <span>Jan 12, 2026</span>
                                             </div>
-                                            <h2 class="featured-post-title"><a href="marketing-blog-details.php">The Stunning Secret Behind  Spotify Success</a></h2>
+                                            <h2 class="featured-post-title"><a href="marketing-blog-details.php">The Stunning Secret Behind Spotify Success</a></h2>
                                             <p>Architecto porro elit integer violet volutpat voluptas dolar Iure.</p>
                                             <div class="post-social">
                                                 <div class="comment">
@@ -414,7 +414,7 @@
                                             <div class="populer-post-date">
                                                 <span>Jan 12, 2026</span>
                                             </div>
-                                            <h2 class="populer-post-title"><a href="marketing-blog-details.php">What Is The Stunning Secret Behind  Spotify Success</a></h2>
+                                            <h2 class="populer-post-title"><a href="marketing-blog-details.php">What Is The Stunning Secret Behind Spotify Success</a></h2>
                                             <p>Suspendisse a auctor morbi tempor other nibh nulla at nulla dolar Phasellus</p>
                                             <div class="post-social">
                                                 <div class="comment">
@@ -438,7 +438,7 @@
                                     <div class="populer-post-list-info">
                                         <div class="populer-post-list-meta">
                                             <div class="date">
-                                               <span> Jan 12, 2026</span>
+                                                <span> Jan 12, 2026</span>
                                             </div>
                                             <div class="author">
                                                 <img src="assets/images/posts/posts-4-author.jpg" alt="Grilled courgette aube with whipped feta"> by <a href=""> Anderson</a>
@@ -456,7 +456,7 @@
                                     <div class="populer-post-list-info">
                                         <div class="populer-post-list-meta">
                                             <div class="date">
-                                               <span> Jan 12, 2026</span>
+                                                <span> Jan 12, 2026</span>
                                             </div>
                                             <div class="author">
                                                 <img src="assets/images/posts/posts-4-author.jpg" alt="Grilled courgette aube with whipped feta"> by <a href="">Anderson</a>
@@ -474,7 +474,7 @@
                                     <div class="populer-post-list-info">
                                         <div class="populer-post-list-meta">
                                             <div class="date">
-                                               <span> Jan 12, 2026</span>
+                                                <span> Jan 12, 2026</span>
                                             </div>
                                             <div class="author">
                                                 <img src="assets/images/posts/posts-4-author.jpg" alt="Grilled courgette aube with whipped feta"> by <a href="">Anderson</a>
@@ -597,9 +597,102 @@
                 </div>
             </div>
         </div>
+ 
+        <div class="services-grid my-5">
+
+            <div class="service-card">
+                <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=500&q=70" alt="Corporate services" />
+                <h2 class="card-top-title">Fintech</h2>
+                <div class="card-content p-5">
+
+                    <p class="card-title highlighted">Fintech has innovated financial technology, aiming to make financial services more accessible to the general population. However, as mobile banking, investing and cryptocurrency become more and more popular, this emerging industry is also facing complex challenges, especially when it comes to the regulatory and legal framework. </p>
+                    <p class="card-title highlighted">Our Fintech-focused services are created to assist our worldwide clients from multiple standpoints, ranging from regulatory compliance, data protection, cryptocurrency technologies, and E-payment platforms to ensure your company is in good standing with all of the concerning institutions, while also integrating software development, system integration, consulting and implementation services for the banking sector, financial service providers and FinTech start-ups to generate performance.</p>
+                </div>
+            </div>
+
+            <div class="service-card">
+                <img src="https://images.unsplash.com/photo-1486325212027-8081e485255e?w=500&q=70" alt="Company formation" />
+                <h2 class="card-top-title">i Gaming & Gambling</h2>
+                <div class="card-content p-5">
+                    <p class="card-title highlighted">At ClearSky Network, we have gathered broad experience in creating, growing, leading & safeguarding gaming operations while providing a risk-averse, performance-oriented business development framework.</p>
+                    <p class="card-title highlighted">Our industry partnerships together with our resources and cross-functional expertise when it comes to payment solutions and legal services, provided us the trained intuition to strategize accordingly, especially when it comes to the newest sought-after, yet sensitive markets such as iGaming. Level the new digital transformation trend, leverage our top-level connections among platforms and providers, and license your new endeavors under ClearSky’s expertise. Game on.</p>
+                </div>
+            </div>
+
+            <div class="service-card">
+                <img src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=500&q=70" alt="Banking and payments" />
+                <h2 class="card-top-title">Financial Institutions</h2>
+                <div class="card-content p-5">
+                    <p class="card-title highlighted">
+                        As financial services are among the global economy’s most important and influential sectors, we have developed an array of services that can serve and sustain their business development, expansion, or incorporation in a fully compliant regulatory environment. By offering an extended portfolio of services, ClearSky Network can be a reliable partner throughout the business process.
+                    </p>
+                    <p class="card-title highlighted">
+                        Our cross-vertical experience has helped us gain valuable relationships, but also the necessary knowledge to help our clients navigate their market status and address their legal pain-points, payments & banking alternatives, tax concerns, governance, risk and accountability, coupled with merger and acquisition solutions. With our in-depth expertise in international finance and local markets, ClearSky Network can provide an invaluable perspective to respond to our clients’ needs with a pragmatic approach.
+                    </p>
+                </div>
+            </div>
+
+            <div class="service-card">
+                <img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=500&q=70" alt="Licensing and regulations" />
+                <h2 class="card-top-title">E-Commerce</h2>
+                <div class="card-content p-5">
+                    <p class="card-title highlighted">
+                        Internet and eCommerce businesses fall under a myriad of regulations covering all areas of operations, from commercial contracts to internet law, and matching every regulatory aspect became more and more demanding, especially when a gold standard has been set upon not only data protection, but also on the transactional process of every purchase or interaction with a client.
+                    </p>
+                    <p class="card-title highlighted">
+                        Our lawyers and analysts have gained valuable experience with all eCommerce models, ranging from Affiliates, drop-shipping operations to large online stores, and are now more than ready to address modern digital challenges, from eCommerce terms and conditions, website terms of conditions, to DMCA compliance, online privacy as well as social media law.
+                    </p>
+                </div>
+            </div>
+
+
+
+        </div> 
+        
+        <div class="container">
+            <div class="row g-3 mb-3">
+                <h2 class="text-center">Latest News & Articles</h2>
+                <div class="col-md-4">
+                    <div class="card-std h-100">
+                        <div class="tag">Crypto Regulation</div>
+                        <h4>The New Crypto Licensing Regime in Saint Vincent</h4>
+                        <p>The digital asset industry continues to mature, and with it, regulatory frameworks are evolving to catch up with new compliance demands.</p>
+                        <div class="meta d-flex justify-content-between">
+                            <span>August 13, 2025</span>
+                            <a href="#" class="read-more">Read more →</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card-std h-100">
+                        <div class="tag">Brokerage</div>
+                        <h4>Mauritius vs Seychelles: Choosing the Right Jurisdiction for Your Brokerage License</h4>
+                        <p>When exploring offshore licensing for FX and CFD operations, two jurisdictions consistently top the list: Mauritius and Seychelles.</p>
+                        <div class="meta d-flex justify-content-between">
+                            <span>July 1, 2025</span>
+                            <a href="#" class="read-more">Read more →</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card-std h-100">
+                        <div class="tag">Canada · Crypto</div>
+                        <h4>Money Service Business (MSB) in Canada – A Cost-Effective Path for Crypto Exchange Operators</h4>
+                        <p>Money Service Businesses are an integral part of the financial sector, providing alternatives to traditional banking services for exchange operators.</p>
+                        <div class="meta d-flex justify-content-between">
+                            <span>March 25, 2025</span>
+                            <a href="#" class="read-more">Read more →</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div> 
 
         <!-- post slider -->
-        <div class="vlo-post-slider-1">
+        <div class="vlo-post-slider-1 d-none">
             <div class="swiper postSlider1">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
@@ -609,9 +702,9 @@
                             </div>
                             <div class="post-slider-info">
                                 <div class="post-slider-date">
-                                    Jan 12, 2026 
+                                    Jan 12, 2026
                                 </div>
-                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
+                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
                                         <a href=""><i class="flaticon-speech-bubble"></i></a>
@@ -632,9 +725,9 @@
                             </div>
                             <div class="post-slider-info">
                                 <div class="post-slider-date">
-                                    Jan 12, 2026 
+                                    Jan 12, 2026
                                 </div>
-                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
+                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
                                         <a href=""><i class="flaticon-speech-bubble"></i></a>
@@ -655,9 +748,9 @@
                             </div>
                             <div class="post-slider-info">
                                 <div class="post-slider-date">
-                                    Jan 12, 2026 
+                                    Jan 12, 2026
                                 </div>
-                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
+                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
                                         <a href=""><i class="flaticon-speech-bubble"></i></a>
@@ -678,9 +771,9 @@
                             </div>
                             <div class="post-slider-info">
                                 <div class="post-slider-date">
-                                    Jan 12, 2026 
+                                    Jan 12, 2026
                                 </div>
-                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
+                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
                                         <a href=""><i class="flaticon-speech-bubble"></i></a>
@@ -701,9 +794,9 @@
                             </div>
                             <div class="post-slider-info">
                                 <div class="post-slider-date">
-                                    Jan 12, 2026 
+                                    Jan 12, 2026
                                 </div>
-                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
+                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
                                         <a href=""><i class="flaticon-speech-bubble"></i></a>
@@ -717,7 +810,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div class="swiper-slide">
                         <div class="post-slider-single">
                             <div class="post-slider-img">
@@ -725,9 +817,9 @@
                             </div>
                             <div class="post-slider-info">
                                 <div class="post-slider-date">
-                                    Jan 12, 2026 
+                                    Jan 12, 2026
                                 </div>
-                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
+                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
                                         <a href=""><i class="flaticon-speech-bubble"></i></a>
@@ -748,9 +840,9 @@
                             </div>
                             <div class="post-slider-info">
                                 <div class="post-slider-date">
-                                    Jan 12, 2026 
+                                    Jan 12, 2026
                                 </div>
-                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
+                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
                                         <a href=""><i class="flaticon-speech-bubble"></i></a>
@@ -771,9 +863,9 @@
                             </div>
                             <div class="post-slider-info">
                                 <div class="post-slider-date">
-                                    Jan 12, 2026 
+                                    Jan 12, 2026
                                 </div>
-                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
+                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
                                         <a href=""><i class="flaticon-speech-bubble"></i></a>
@@ -794,9 +886,9 @@
                             </div>
                             <div class="post-slider-info">
                                 <div class="post-slider-date">
-                                    Jan 12, 2026 
+                                    Jan 12, 2026
                                 </div>
-                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
+                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
                                         <a href=""><i class="flaticon-speech-bubble"></i></a>
@@ -817,9 +909,9 @@
                             </div>
                             <div class="post-slider-info">
                                 <div class="post-slider-date">
-                                    Jan 12, 2026 
+                                    Jan 12, 2026
                                 </div>
-                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
+                                <h2> <a href="index-4.html">What Is The Stunning Secret Behind Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
                                         <a href=""><i class="flaticon-speech-bubble"></i></a>
@@ -841,7 +933,7 @@
         </div>
     </main>
 
-   <footer class="vlo-footer-6">
+    <footer class="vlo-footer-6">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-6">
@@ -901,7 +993,7 @@
                             <div class="news-letter-form">
                                 <div class="vlo-footer-form">
                                     <form>
-                                        <input type="email" id="email" name="email" placeholder="Email"  autocomplete="off">
+                                        <input type="email" id="email" name="email" placeholder="Email" autocomplete="off">
                                         <button type="submit">
                                             <span>Submit</span>
                                         </button>
@@ -928,12 +1020,11 @@
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/swiper-bundle.min.js"></script>
     <script src="assets/js/acmeticker.min.js"></script>
-    <script src="assets/js/magnific-popup.min.js"></script>
-    <script src="assets/js/dark-mode-switch.min.js"></script>
+    <script src="assets/js/magnific-popup.min.js"></script> 
     <!-- main js  -->
     <script src="assets/js/main.js"></script>
-    
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"32aec90585da45268168b185959e7935","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"32aec90585da45268168b185959e7935","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
- 
+
 </html>
