@@ -220,14 +220,14 @@
                                     <div class="featured-post-date">
                                         <span>Jan 12, 2026</span>
                                     </div>
-                                    <h2 class="featured-post-title"><a href="post-details.html">Efficient Way to Manage Your Community?</a></h2>
+                                    <h2 class="featured-post-title"><a href="marketing-blog-details.php">Efficient Way to Manage Your Community?</a></h2>
                                     <div class="post-social">
                                         <div class="comment">
-                                            <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                            <a href=""><i class="flaticon-speech-bubble"></i></a>
                                             <span>10 comments</span>
                                         </div>
                                         <div class="like">
-                                            <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                            <a href=""><i class="flaticon-heart"></i></a>
                                             <span>10</span>
                                         </div>
                                     </div>
@@ -246,15 +246,15 @@
                                             <div class="featured-post-date">
                                                 <span>Jan 12, 2026</span>
                                             </div>
-                                            <h2 class="featured-post-title"><a href="post-details.html">Search Optimization Good Practices Guideline</a></h2>
+                                            <h2 class="featured-post-title"><a href="marketing-blog-details.php">Search Optimization Good Practices Guideline</a></h2>
                                             <p>Architecto porro elit integer violet volutpat voluptas dolar Iure.</p>
                                             <div class="post-social">
                                                 <div class="comment">
-                                                    <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                                    <a href=""><i class="flaticon-speech-bubble"></i></a>
                                                     <span>10 comments</span>
                                                 </div>
                                                 <div class="like">
-                                                    <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                                    <a href=""><i class="flaticon-heart"></i></a>
                                                     <span>10</span>
                                                 </div>
                                             </div>
@@ -271,15 +271,15 @@
                                             <div class="featured-post-date">
                                                 <span>Jan 12, 2026</span>
                                             </div>
-                                            <h2 class="featured-post-title"><a href="post-details.html">With Your Social Media Marketing Strategy</a></h2>
+                                            <h2 class="featured-post-title"><a href="marketing-blog-details.php">With Your Social Media Marketing Strategy</a></h2>
                                             <p>Suspendisse a auctor morbi tempor other nibh nulla at nulla</p>
                                             <div class="post-social">
                                                 <div class="comment">
-                                                    <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                                    <a href=""><i class="flaticon-speech-bubble"></i></a>
                                                     <span>10 comments</span>
                                                 </div>
                                                 <div class="like">
-                                                    <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                                    <a href=""><i class="flaticon-heart"></i></a>
                                                     <span>10</span>
                                                 </div>
                                             </div>
@@ -300,15 +300,15 @@
                                             <div class="featured-post-date">
                                                 <span>Jan 12, 2026</span>
                                             </div>
-                                            <h2 class="featured-post-title"><a href="post-details.html">Audience Right Is That Really Simple?</a></h2>
+                                            <h2 class="featured-post-title"><a href="marketing-blog-details.php">Audience Right Is That Really Simple?</a></h2>
                                             <p>Architecto porro elit integer violet volutpat voluptas dolar Iure.</p>
                                             <div class="post-social">
                                                 <div class="comment">
-                                                    <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                                    <a href=""><i class="flaticon-speech-bubble"></i></a>
                                                     <span>10 comments</span>
                                                 </div>
                                                 <div class="like">
-                                                    <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                                    <a href=""><i class="flaticon-heart"></i></a>
                                                     <span>10</span>
                                                 </div>
                                             </div>
@@ -325,15 +325,15 @@
                                             <div class="featured-post-date">
                                                 <span>Jan 12, 2026</span>
                                             </div>
-                                            <h2 class="featured-post-title"><a href="post-details.html">The Stunning Secret Behind  Spotify Success</a></h2>
+                                            <h2 class="featured-post-title"><a href="marketing-blog-details.php">The Stunning Secret Behind  Spotify Success</a></h2>
                                             <p>Architecto porro elit integer violet volutpat voluptas dolar Iure.</p>
                                             <div class="post-social">
                                                 <div class="comment">
-                                                    <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                                    <a href=""><i class="flaticon-speech-bubble"></i></a>
                                                     <span>10 comments</span>
                                                 </div>
                                                 <div class="like">
-                                                    <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                                    <a href=""><i class="flaticon-heart"></i></a>
                                                     <span>10</span>
                                                 </div>
                                             </div>
@@ -352,14 +352,14 @@
                                     <div class="featured-post-date">
                                         <span>Jan 12, 2026</span>
                                     </div>
-                                    <h2 class="featured-post-title"><a href="post-details.html">Ready For Instant And Convenient Use</a></h2>
+                                    <h2 class="featured-post-title"><a href="marketing-blog-details.php">Ready For Instant And Convenient Use</a></h2>
                                     <div class="post-social">
                                         <div class="comment">
-                                            <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                            <a href=""><i class="flaticon-speech-bubble"></i></a>
                                             <span>10 comments</span>
                                         </div>
                                         <div class="like">
-                                            <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                            <a href=""><i class="flaticon-heart"></i></a>
                                             <span>10</span>
                                         </div>
                                     </div>
@@ -390,15 +390,15 @@
                                             <div class="populer-post-date">
                                                 <span>Jan 12, 2026</span>
                                             </div>
-                                            <h2 class="populer-post-title"><a href="post-details.html">Engage Your Audience Right Is That Really Simple?</a></h2>
+                                            <h2 class="populer-post-title"><a href="marketing-blog-details.php">Engage Your Audience Right Is That Really Simple?</a></h2>
                                             <p>Architecto porro elit integer violet volutpat voluptas dolar Iure autem magnis.</p>
                                             <div class="post-social">
                                                 <div class="comment">
-                                                    <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                                    <a href=""><i class="flaticon-speech-bubble"></i></a>
                                                     <span>10 comments</span>
                                                 </div>
                                                 <div class="like">
-                                                    <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                                    <a href=""><i class="flaticon-heart"></i></a>
                                                     <span>10</span>
                                                 </div>
                                             </div>
@@ -414,15 +414,15 @@
                                             <div class="populer-post-date">
                                                 <span>Jan 12, 2026</span>
                                             </div>
-                                            <h2 class="populer-post-title"><a href="post-details.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
+                                            <h2 class="populer-post-title"><a href="marketing-blog-details.php">What Is The Stunning Secret Behind  Spotify Success</a></h2>
                                             <p>Suspendisse a auctor morbi tempor other nibh nulla at nulla dolar Phasellus</p>
                                             <div class="post-social">
                                                 <div class="comment">
-                                                    <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                                    <a href=""><i class="flaticon-speech-bubble"></i></a>
                                                     <span>10 comments</span>
                                                 </div>
                                                 <div class="like">
-                                                    <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                                    <a href=""><i class="flaticon-heart"></i></a>
                                                     <span>10</span>
                                                 </div>
                                             </div>
@@ -441,10 +441,10 @@
                                                <span> Jan 12, 2026</span>
                                             </div>
                                             <div class="author">
-                                                <img src="assets/images/posts/posts-4-author.jpg" alt="Grilled courgette aube with whipped feta"> by <a href="index-3.html"> Anderson</a>
+                                                <img src="assets/images/posts/posts-4-author.jpg" alt="Grilled courgette aube with whipped feta"> by <a href=""> Anderson</a>
                                             </div>
                                         </div>
-                                        <h2 class="post-list-title"><a href="index-3.html">Broccoli pesto penne with chilli & garlic sizzle</a></h2>
+                                        <h2 class="post-list-title"><a href="">Broccoli pesto penne with chilli & garlic sizzle</a></h2>
                                         <p>Smooth and lush thanks to the cold brew and milk with a special blend of flavor from bright, fresh mint, and a gently split whole vanilla bean.</p>
                                         <a class="vlo-global-btn" href="#">Read More</a>
                                     </div>
@@ -459,10 +459,10 @@
                                                <span> Jan 12, 2026</span>
                                             </div>
                                             <div class="author">
-                                                <img src="assets/images/posts/posts-4-author.jpg" alt="Grilled courgette aube with whipped feta"> by <a href="index-3.html">Anderson</a>
+                                                <img src="assets/images/posts/posts-4-author.jpg" alt="Grilled courgette aube with whipped feta"> by <a href="">Anderson</a>
                                             </div>
                                         </div>
-                                        <h2 class="post-list-title"><a href="index-3.html">Grilled courgette aube with whipped feta</a></h2>
+                                        <h2 class="post-list-title"><a href="">Grilled courgette aube with whipped feta</a></h2>
                                         <p>Smooth and lush thanks to the cold brew and milk with a special blend of flavor from bright, fresh mint, and a gently split whole vanilla bean.</p>
                                         <a class="vlo-global-btn" href="#">Read More</a>
                                     </div>
@@ -477,10 +477,10 @@
                                                <span> Jan 12, 2026</span>
                                             </div>
                                             <div class="author">
-                                                <img src="assets/images/posts/posts-4-author.jpg" alt="Grilled courgette aube with whipped feta"> by <a href="index-3.html">Anderson</a>
+                                                <img src="assets/images/posts/posts-4-author.jpg" alt="Grilled courgette aube with whipped feta"> by <a href="">Anderson</a>
                                             </div>
                                         </div>
-                                        <h2 class="post-list-title"><a href="index-3.html">Spring pea basil fritters with crispy fried eggs</a></h2>
+                                        <h2 class="post-list-title"><a href="">Spring pea basil fritters with crispy fried eggs</a></h2>
                                         <p>Smooth and lush thanks to the cold brew and milk with a special blend of flavor from bright, fresh mint, and a gently split whole vanilla bean.</p>
                                         <a class="vlo-global-btn" href="#">Read More</a>
                                     </div>
@@ -568,27 +568,27 @@
                                 <div class="instagram-wrapper">
                                     <div class="instagram-single">
                                         <img src="assets/images/instagram/instagram-4-1.jpg" alt="Instagram">
-                                        <a href="index-3.html"><i class="flaticon-instagram"></i></a>
+                                        <a href=""><i class="flaticon-instagram"></i></a>
                                     </div>
                                     <div class="instagram-single">
                                         <img src="assets/images/instagram/instagram-4-2.jpg" alt="Instagram">
-                                        <a href="index-3.html"><i class="flaticon-instagram"></i></a>
+                                        <a href=""><i class="flaticon-instagram"></i></a>
                                     </div>
                                     <div class="instagram-single">
                                         <img src="assets/images/instagram/instagram-4-3.jpg" alt="Instagram">
-                                        <a href="index-3.html"><i class="flaticon-instagram"></i></a>
+                                        <a href=""><i class="flaticon-instagram"></i></a>
                                     </div>
                                     <div class="instagram-single">
                                         <img src="assets/images/instagram/instagram-4-4.jpg" alt="Instagram">
-                                        <a href="index-3.html"><i class="flaticon-instagram"></i></a>
+                                        <a href=""><i class="flaticon-instagram"></i></a>
                                     </div>
                                     <div class="instagram-single">
                                         <img src="assets/images/instagram/instagram-4-5.jpg" alt="Instagram">
-                                        <a href="index-3.html"><i class="flaticon-instagram"></i></a>
+                                        <a href=""><i class="flaticon-instagram"></i></a>
                                     </div>
                                     <div class="instagram-single">
                                         <img src="assets/images/instagram/instagram-4-6.jpg" alt="Instagram">
-                                        <a href="index-3.html"><i class="flaticon-instagram"></i></a>
+                                        <a href=""><i class="flaticon-instagram"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -614,11 +614,11 @@
                                 <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
-                                        <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                        <a href=""><i class="flaticon-speech-bubble"></i></a>
                                         <span>10 comments</span>
                                     </div>
                                     <div class="like">
-                                        <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                        <a href=""><i class="flaticon-heart"></i></a>
                                         <span>10</span>
                                     </div>
                                 </div>
@@ -637,11 +637,11 @@
                                 <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
-                                        <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                        <a href=""><i class="flaticon-speech-bubble"></i></a>
                                         <span>10 comments</span>
                                     </div>
                                     <div class="like">
-                                        <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                        <a href=""><i class="flaticon-heart"></i></a>
                                         <span>10</span>
                                     </div>
                                 </div>
@@ -660,11 +660,11 @@
                                 <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
-                                        <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                        <a href=""><i class="flaticon-speech-bubble"></i></a>
                                         <span>10 comments</span>
                                     </div>
                                     <div class="like">
-                                        <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                        <a href=""><i class="flaticon-heart"></i></a>
                                         <span>10</span>
                                     </div>
                                 </div>
@@ -683,11 +683,11 @@
                                 <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
-                                        <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                        <a href=""><i class="flaticon-speech-bubble"></i></a>
                                         <span>10 comments</span>
                                     </div>
                                     <div class="like">
-                                        <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                        <a href=""><i class="flaticon-heart"></i></a>
                                         <span>10</span>
                                     </div>
                                 </div>
@@ -706,11 +706,11 @@
                                 <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
-                                        <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                        <a href=""><i class="flaticon-speech-bubble"></i></a>
                                         <span>10 comments</span>
                                     </div>
                                     <div class="like">
-                                        <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                        <a href=""><i class="flaticon-heart"></i></a>
                                         <span>10</span>
                                     </div>
                                 </div>
@@ -730,11 +730,11 @@
                                 <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
-                                        <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                        <a href=""><i class="flaticon-speech-bubble"></i></a>
                                         <span>10 comments</span>
                                     </div>
                                     <div class="like">
-                                        <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                        <a href=""><i class="flaticon-heart"></i></a>
                                         <span>10</span>
                                     </div>
                                 </div>
@@ -753,11 +753,11 @@
                                 <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
-                                        <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                        <a href=""><i class="flaticon-speech-bubble"></i></a>
                                         <span>10 comments</span>
                                     </div>
                                     <div class="like">
-                                        <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                        <a href=""><i class="flaticon-heart"></i></a>
                                         <span>10</span>
                                     </div>
                                 </div>
@@ -776,11 +776,11 @@
                                 <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
-                                        <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                        <a href=""><i class="flaticon-speech-bubble"></i></a>
                                         <span>10 comments</span>
                                     </div>
                                     <div class="like">
-                                        <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                        <a href=""><i class="flaticon-heart"></i></a>
                                         <span>10</span>
                                     </div>
                                 </div>
@@ -799,11 +799,11 @@
                                 <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
-                                        <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                        <a href=""><i class="flaticon-speech-bubble"></i></a>
                                         <span>10 comments</span>
                                     </div>
                                     <div class="like">
-                                        <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                        <a href=""><i class="flaticon-heart"></i></a>
                                         <span>10</span>
                                     </div>
                                 </div>
@@ -822,11 +822,11 @@
                                 <h2> <a href="index-4.html">What Is The Stunning Secret Behind  Spotify Success</a></h2>
                                 <div class="post-slider-social">
                                     <div class="comment">
-                                        <a href="index-3.html"><i class="flaticon-speech-bubble"></i></a>
+                                        <a href=""><i class="flaticon-speech-bubble"></i></a>
                                         <span>10 comments</span>
                                     </div>
                                     <div class="like">
-                                        <a href="index-3.html"><i class="flaticon-heart"></i></a>
+                                        <a href=""><i class="flaticon-heart"></i></a>
                                         <span>10</span>
                                     </div>
                                 </div>
@@ -841,20 +841,79 @@
         </div>
     </main>
 
-    <footer class="vlo-footer-4">
+   <footer class="vlo-footer-6">
         <div class="container">
-            <div class="footer-logo">
-                <img src="assets/images/logo/logo-4-footer.svg" alt="logo">
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="footer-logo">
+                        <a href="index-2.html"><img src="assets/images/logo/networking-white.svg" alt="logo"></a>
+                        <p>Explicabo cursus veniam Ipsa rem excepturi netus distinctio et Hac expedita pharetra scelerisque imperdiet porttitor fugiat commodo conubia dolorem integer at thrive digital we're about delivering top-notch service to our clients.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-6 col-sm-6 col-6">
+                    <div class="footer-categories-widget">
+                        <h5 class="footer-menu-name">Services</h5>
+                        <ul class="menu-list">
+                            <li><a href="company_formation.php"> Company Formation</a></li>
+                            <li><a href="licensing_regulation.php"> Licensing & Regulation</a></li>
+                            <li><a href="payment-by-networking.php">Payment By Networking</a></li>
+                            <li><a href="tech-by-networking.php"> Tech By Networking</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 col-6">
+                    <div class="footer-pages-widget">
+                        <h5 class="footer-menu-name">Pages</h5>
+                        <ul class="menu-list">
+                            <li><a href="marketing-about.php">About Me</a></li>
+                            <li><a href="">News</a></li>
+                            <li><a href="contact.php">Contact</a></li>
+                            <li><a href=" ">Faq</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6 col-sm-6 col-6">
+                    <div class="footer-support-widget">
+                        <h5 class="footer-menu-name">Support</h5>
+                        <ul class="menu-list">
+                            <li><a href="">Support Center</a></li>
+                            <li><a href="">Feedback</a></li>
+                            <li><a href="">Terms & Condition</a></li>
+                        </ul>
+                    </div>
+                </div>
             </div>
-            <div class="footer-social">
-                <a href="index-4.html"><i class="flaticon-twitter"></i></a>
-                <a href="index-4.html"><i class="flaticon-instagram"></i></a>
-                <a href="index-4.html"><i class="flaticon-linkedin"></i></a>
-                <a href="index-4.html"><i class="flaticon-facebook-app-symbol"></i></a>
-                <a href="index-4.html"><i class="flaticon-vimeo"></i></a>
+            <div class="vlo-footer-inner">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="footer-social">
+                            <a href=""><i class="flaticon-twitter"></i></a>
+                            <a href=""><i class="flaticon-instagram"></i></a>
+                            <a href=""><i class="flaticon-linkedin"></i></a>
+                            <a href=""><i class="flaticon-facebook-app-symbol"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-8">
+                        <div class="footer-news-letter">
+                            <div class="news-letter-heading">
+                                <h2>Sign up to newsletter</h2>
+                            </div>
+                            <div class="news-letter-form">
+                                <div class="vlo-footer-form">
+                                    <form>
+                                        <input type="email" id="email" name="email" placeholder="Email"  autocomplete="off">
+                                        <button type="submit">
+                                            <span>Submit</span>
+                                        </button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="copy-right">
-                Copyright © 2009 - 2023 <a href="thecodude.html">Thecodude</a> Inc.
+                Copyright © 2026 <a href="thecodude.html">Networking</a> Inc.
             </div>
         </div>
     </footer>

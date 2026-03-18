@@ -70,7 +70,8 @@
             </div>
         </div>  
     </header>
-    <main class="vlo-marketing-about">
+
+    <main class="">
         <div class="vlo-title-bar-1 marketing-titlebar-bg">
             <h1>About Me</h1>
         </div>
@@ -236,20 +237,79 @@
  
     </main>
 
-    <footer class="vlo-footer-4">
+     <footer class="vlo-footer-6">
         <div class="container">
-            <div class="footer-logo">
-                <img src="assets/images/logo/logo-4-footer.svg" alt="logo">
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="footer-logo">
+                        <a href="index-2.html"><img src="assets/images/logo/networking-white.svg" alt="logo"></a>
+                        <p>Explicabo cursus veniam Ipsa rem excepturi netus distinctio et Hac expedita pharetra scelerisque imperdiet porttitor fugiat commodo conubia dolorem integer at thrive digital we're about delivering top-notch service to our clients.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-6 col-sm-6 col-6">
+                    <div class="footer-categories-widget">
+                        <h5 class="footer-menu-name">Services</h5>
+                        <ul class="menu-list">
+                            <li><a href="company_formation.php"> Company Formation</a></li>
+                            <li><a href="licensing_regulation.php"> Licensing & Regulation</a></li>
+                            <li><a href="payment-by-networking.php">Payment By Networking</a></li>
+                            <li><a href="tech-by-networking.php"> Tech By Networking</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 col-6">
+                    <div class="footer-pages-widget">
+                        <h5 class="footer-menu-name">Pages</h5>
+                        <ul class="menu-list">
+                            <li><a href="marketing-about.php">About Me</a></li>
+                            <li><a href="">News</a></li>
+                            <li><a href="contact.php">Contact</a></li>
+                            <li><a href=" ">Faq</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6 col-sm-6 col-6">
+                    <div class="footer-support-widget">
+                        <h5 class="footer-menu-name">Support</h5>
+                        <ul class="menu-list">
+                            <li><a href="">Support Center</a></li>
+                            <li><a href="">Feedback</a></li>
+                            <li><a href="">Terms & Condition</a></li>
+                        </ul>
+                    </div>
+                </div>
             </div>
-            <div class="footer-social">
-                <a href="index-4.html"><i class="flaticon-twitter"></i></a>
-                <a href="index-4.html"><i class="flaticon-instagram"></i></a>
-                <a href="index-4.html"><i class="flaticon-linkedin"></i></a>
-                <a href="index-4.html"><i class="flaticon-facebook-app-symbol"></i></a>
-                <a href="index-4.html"><i class="flaticon-vimeo"></i></a>
+            <div class="vlo-footer-inner">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="footer-social">
+                            <a href=""><i class="flaticon-twitter"></i></a>
+                            <a href=""><i class="flaticon-instagram"></i></a>
+                            <a href=""><i class="flaticon-linkedin"></i></a>
+                            <a href=""><i class="flaticon-facebook-app-symbol"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-8">
+                        <div class="footer-news-letter">
+                            <div class="news-letter-heading">
+                                <h2>Sign up to newsletter</h2>
+                            </div>
+                            <div class="news-letter-form">
+                                <div class="vlo-footer-form">
+                                    <form>
+                                        <input type="email" id="email" name="email" placeholder="Email"  autocomplete="off">
+                                        <button type="submit">
+                                            <span>Submit</span>
+                                        </button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="copy-right">
-                Copyright © 2009 - 2023 <a href="thecodude.html">Thecodude</a> Inc.
+                Copyright © 2026 <a href="thecodude.html">Networking</a> Inc.
             </div>
         </div>
     </footer>

@@ -781,7 +781,7 @@ ul {
 
 /* footer-6 */
 .vlo-footer-6 {
-    padding: 100px 0 0 0;
+    padding: 60px 0 0 0;
     background-color: #2D333D;
 }
 
@@ -840,7 +840,7 @@ ul {
 }
 
 .vlo-footer-6 .vlo-footer-inner {
-    padding: 70px 0 60px 0;
+    padding: 20px 0 20px 0;
     border-bottom: 1px solid #39404B;
 }
 
@@ -889,7 +889,7 @@ ul {
     color: #ffffff;
     opacity: 0.6;
     text-align: center;
-    padding: 60px 0;
+    padding: 10px 0;
 }
 
 .vlo-footer-6 .copy-right a {
@@ -3337,14 +3337,7 @@ background: #ff176c;
         }
         .cta-btn:hover { background: var(--sand-dk); }
 
-        /* ── Footer ── */
-        footer {
-            text-align: center;
-            padding: 24px;
-            font-size: 0.82rem;
-            color: var(--muted);
-            border-top: 1px solid var(--border);
-        }
+         
 
         @media (max-width: 680px) {
             .explorer { flex-direction: column; padding: 0 16px 60px; }
@@ -3353,3 +3346,176 @@ background: #ff176c;
             .panel { padding: 0; }
         }
  
+        
+    /* ── DECORATIVE TOP BAR ── */
+    .top-bar {
+      height: 4px; 
+    }
+ 
+    /* ── SECTION WRAPPER ── */
+    .section {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 80px 40px 100px;
+    }
+ 
+    /* ── HEADING ── */
+    .headline {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2.2rem, 5vw, 3.2rem);
+      font-weight: 800;
+      color: var(--dark);
+      line-height: 1.2;
+      letter-spacing: -0.02em;
+      margin-bottom: 28px;
+      position: relative;
+    }
+ 
+    .headline::after {
+      content: '';
+      display: block;
+      width: 64px;
+      height: 3px;
+      background: var(--gold);
+      margin-top: 20px;
+      border-radius: 2px;
+    }
+ 
+    /* ── LEAD PARAGRAPH ── */
+    .lead {
+      font-family: 'Lora', serif;
+      font-size: 1.08rem;
+      color: var(--gold-muted);
+      line-height: 1.85;
+      margin-bottom: 40px;
+      max-width: 720px;
+    }
+ 
+    /* ── DIVIDER ── */
+    .divider {
+      border: none;
+      border-top: 1px solid #e0d9cc;
+      margin: 40px 0;
+    }
+ 
+    /* ── BODY TEXT ── */
+    .body-text {
+      font-size: 1rem;
+      color: var(--body);
+      line-height: 1.85;
+      margin-bottom: 32px;
+    }
+ 
+    /* ── CALLOUT ── */
+    .callout {
+      display: inline-block;
+      background: var(--bg-warm);
+      border-left: 4px solid var(--gold);
+      padding: 14px 22px;
+      margin: 8px 0 28px;
+      border-radius: 0 6px 6px 0;
+    }
+ 
+    .callout p {
+      font-family: 'Lora', serif;
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: var(--dark);
+      font-style: italic;
+    }
+ 
+    /* ── SECOND BODY TEXT ── */
+    .body-text-2 {
+      font-size: 1rem;
+      color: var(--body);
+      line-height: 1.85;
+      margin-bottom: 48px;
+    }
+ 
+    /* ── BUTTON ── */
+    .btn-contact {
+      display: inline-block;
+      background: var(--gold);
+      color: var(--white);
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 0.92rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      text-decoration: none;
+      padding: 16px 36px;
+      border: none;
+      cursor: pointer;
+      border-radius: 3px;
+      transition: background 0.25s ease, transform 0.2s ease, box-shadow 0.25s ease;
+      box-shadow: 0 4px 18px rgba(184,154,106,0.25);
+    }
+ 
+    .btn-contact:hover {
+      background: var(--gold-muted);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 28px rgba(184,154,106,0.35);
+    }
+ 
+    /* ── FADE-IN ANIMATION ── */
+    .fade-up {
+      opacity: 0;
+      transform: translateY(24px);
+      animation: fadeUp 0.7s ease forwards;
+    }
+    .fade-up:nth-child(1) { animation-delay: 0.1s; }
+    .fade-up:nth-child(2) { animation-delay: 0.25s; }
+    .fade-up:nth-child(3) { animation-delay: 0.4s; }
+    .fade-up:nth-child(4) { animation-delay: 0.52s; }
+    .fade-up:nth-child(5) { animation-delay: 0.62s; }
+    .fade-up:nth-child(6) { animation-delay: 0.72s; }
+    .fade-up:nth-child(7) { animation-delay: 0.82s; }
+ 
+    @keyframes fadeUp {
+      to { opacity: 1; transform: translateY(0); }
+    }
+ 
+    /* ── BOTTOM DECORATION ── */
+    .bottom-bar {
+      height: 2px;
+      background: linear-gradient(90deg, transparent, var(--gold), transparent);
+      margin-top: 40px;
+    }
+ 
+    /* ── RESPONSIVE ── */
+    @media (max-width: 600px) {
+      .section { padding: 50px 24px 70px; }
+    }
+
+      .btn-group {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+ 
+    .btn-channel {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      background: #2aabee;
+      color: #fff;
+      font-size: 1rem;
+      font-weight: 700;
+      text-decoration: none;
+      padding: 14px 28px;
+      border: none;
+      cursor: pointer;
+      border-radius: 4px;
+      transition: background 0.2s ease, transform 0.15s ease;
+      white-space: nowrap;
+    }
+  
+ 
+    /* Telegram paper-plane icon via SVG */
+    .btn-channel svg {
+      width: 18px;
+      height: 18px;
+      fill: #fff;
+      flex-shrink: 0;
+    }

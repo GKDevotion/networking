@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="assets/css/fonts/typography-1.css">
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
     <link rel="stylesheet" href="assets/css/elements/videos.css">
+    <link rel="stylesheet" href="assets/css/elements/populer-posts.css">
     <link rel="stylesheet" href="assets/css/elements/about-us.css">
     <link rel="stylesheet" href="assets/css/elements/contact.css">
     <link rel="stylesheet" href="assets/css/animate.css">
@@ -70,29 +71,400 @@
             </div>
         </div>  
     </header>
-    <main class="vlo-marketing-about">
+    <main class="">
         <div class="vlo-title-bar-1 marketing-titlebar-bg">
             <h1>Tech By Networking</h1>
         </div>
  
-          
+            <!-- Popular post -->
+        <div class="vlo-populer-posts-4">
+            <div class="container">
+
+                <section class="hero-section">
+                    <div class="container">  
+                        <p class="lead">
+                           In the fast-paced and dynamic world of E-Business services, cutting-edge technology is the key to success. We specialize in leverage a wide-ranging network of partners, local service providers, suppliers, consultants, and clients to provide our customers with unparalleled access to valuable business connections. These connections open doors to new opportunities, facilitate collaborations, and strengthen your business’s global reach across various industries and jurisdictions. 
+                        </p>
+                         <p class="lead">
+                         <span class="highlight">Discover how we can make technology and global connections work for you.</span>
+                         </p> 
+                    </div>
+                </section>
+
+                <!-- ── VIEW DEALS ── -->
+                <section class="deals-section">
+                    <div class="container">
+                        <h2>View Deals</h2>
+
+                        <div class="row g-3 filter-row justify-content-center">
+                            <!-- Search -->
+                            <div class="col-12 col-md-4">
+                                <div class="search-wrapper">
+                                    <input type="text" class="form-control" placeholder="Search" />
+                                    <i class="bi bi-search search-icon"></i>
+                                </div>
+                            </div>
+
+                            <!-- Jurisdictions -->
+                            <div class="col-12 col-md-4">
+                                <select class="form-select">
+                                    <option value="" disabled selected>Select Industry</option>
+                                    <option>AD Tech & Media</option>
+                                    <option>Crypto Currency</option>
+                                    <option>I Gaming & Betting</option>
+                                    <option>Marketing</option>
+                                    <option>Payment</option>
+                                    <option>Trading</option>
+                                </select>
+                            </div>
+
+                            <!-- Industries -->
+                            <div class="col-12 col-md-4">
+                                <select class="form-select">
+                                    <option value="" disabled selected>Select Solution</option>
+                                    <option>Affiliate Management Tool</option>
+                                    <option>AI Call Agents</option>
+                                    <option>AML Monitoring</option>
+                                    <option>Compliance Tools</option>
+                                    <option>Direct Messaging Campaign</option>
+                                    <option>Feeds</option>
+                                    <option>Games Provider</option>
+                                    <option>Liquidity</option> 
+                                    <option>Reputation Management</option>
+                                    <option>Signal Tools</option> 
+                                    <option>Trading Platform</option> 
+                                    <option>VOIP</option> 
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <div class="row">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="populer-post-single">
+                            <div class="populer-post-img">
+                                <img src="assets/images/populer-post/populer-post-4-3.jpg" alt="Engage Your Audience Right Is That Really Simple?">
+                                <div class="populer-post-info">
+                                    <div class="populer-post-date">
+                                    </div>
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">Engage Your Audience Right Is That Really Simple?</a></h2>
+
+                                    <div class="post-social mb-3">
+                                        <div class="comment">
+                                            <a href="index-3.html"><i class="bi bi-geo-alt"></i></a>
+                                            <span>10 comments</span>
+                                        </div>
+                                    </div>
+
+                                    <div class="post-social">
+                                        <div class="like">
+                                            <a href="index-3.html"><i class="bi bi-buildings"></i></a>
+                                            <span>10</span>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="populer-post-single">
+                            <div class="populer-post-img">
+                                <img src="assets/images/populer-post/populer-post-4-4.jpg" alt="What Is The Stunning Secret Behind  Spotify Success">
+                                <div class="populer-post-info">
+
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">What Is The Stunning Secret Behind Spotify Success</a></h2>
+
+                                    <div class="post-social">
+                                        <div class="comment mb-3">
+                                            <a href="index-3.html"><i class="bi bi-geo-alt"></i></a>
+                                            <span>10 comments</span>
+                                        </div>
+                                    </div>
+
+                                    <div class="post-social">
+                                        <div class="like">
+                                            <a href="index-3.html"><i class="bi bi-buildings"></i></a>
+                                            <span>10</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="populer-post-single">
+                            <div class="populer-post-img">
+                                <img src="assets/images/populer-post/populer-post-4-5.jpg" alt="Search Engine Optimization Good Practices Guide for All">
+                                <div class="populer-post-info">
+
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">Search Engine Optimization Good Practices Guide for All</a></h2>
+
+                                    <div class="post-social mb-3">
+                                        <div class="comment">
+                                            <a href="index-3.html"><i class="bi bi-geo-alt"></i></a>
+                                            <span>10 comments</span>
+                                        </div>
+                                    </div>
+
+                                    <div class="post-social">
+                                        <div class="like">
+                                            <a href="index-3.html"><i class="bi bi-buildings"></i></a>
+                                            <span>10</span>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="populer-post-single">
+                            <div class="populer-post-img">
+                                <img src="assets/images/populer-post/populer-post-4-6.jpg" alt="What Is The Stunning Secret Just Behind of Spotify Success?">
+                                <div class="populer-post-info">
+
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">What Is The Stunning Secret Just Behind of Spotify Success?</a></h2>
+
+                                    <div class="post-social mb-3">
+                                        <div class="comment">
+                                            <a href="index-3.html"><i class="bi bi-geo-alt"></i></a>
+                                            <span>10 comments</span>
+                                        </div>
+                                    </div>
+
+                                    <div class="post-social">
+                                        <div class="like">
+                                            <a href="index-3.html"><i class="bi bi-buildings"></i></a>
+                                            <span>10</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="populer-post-single">
+                            <div class="populer-post-img">
+                                <img src="assets/images/populer-post/populer-post-4-7.jpg" alt="Be Succesfull With Your Social Media Marketing Strategy">
+                                <div class="populer-post-info">
+
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">Be Succesfull With Your Social Media Marketing Strategy</a></h2>
+
+                                    <div class="post-social mb-3">
+                                        <div class="comment">
+                                            <a href="index-3.html"><i class="bi bi-geo-alt"></i></a>
+                                            <span>10 comments</span>
+                                        </div>
+                                    </div>
+
+                                    <div class="post-social">
+                                        <div class="like">
+                                            <a href="index-3.html"><i class="bi bi-buildings"></i></a>
+                                            <span>10</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="populer-post-single">
+                            <div class="populer-post-img">
+                                <img src="assets/images/populer-post/populer-post-4-7.jpg" alt="Social Media Geeks Conference Impressions from London">
+                                <div class="populer-post-info">
+
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">Social Media Geeks Conference Impressions from London</a></h2>
+
+                                    <div class="post-social mb-3">
+                                        <div class="comment">
+                                            <a href="index-3.html"><i class="bi bi-geo-alt"></i></a>
+                                            <span>10 comments</span>
+                                        </div>
+                                    </div>
+
+                                    <div class="post-social">
+                                        <div class="like">
+                                            <a href="index-3.html"><i class="bi bi-buildings"></i></a>
+                                            <span>10</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="populer-post-single">
+                            <div class="populer-post-img">
+                                <img src="assets/images/populer-post/populer-post-4-7.jpg" alt="Machine Learning In Analytics To Limit Healthcare Fraud">
+                                <div class="populer-post-info">
+
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">Social Media Geeks Conference Impressions from London</a></h2>
+
+                                    <div class="post-social mb-3">
+                                        <div class="comment">
+                                            <a href="index-3.html"><i class="bi bi-geo-alt"></i></a>
+                                            <span>10 comments</span>
+                                        </div>
+                                    </div>
+
+                                    <div class="post-social">
+                                        <div class="like">
+                                            <a href="index-3.html"><i class="bi bi-buildings"></i></a>
+                                            <span>10</span>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="populer-post-single">
+                            <div class="populer-post-img">
+                                <img src="assets/images/populer-post/populer-post-4-8.jpg" alt="Don't Lose Retirement Benefits When Changing Jobs">
+                                <div class="populer-post-info">
+
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">Don't Lose Retirement Benefits When Changing Jobs</a></h2>
+
+                                    <div class="post-social mb-3">
+                                        <div class="comment">
+                                            <a href="index-3.html"><i class="bi bi-geo-alt"></i></a>
+                                            <span>10 comments</span>
+                                        </div>
+                                    </div>
+
+                                    <div class="post-social">
+                                        <div class="like">
+                                            <a href="index-3.html"><i class="bi bi-buildings"></i></a>
+                                            <span>10</span>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="populer-post-single">
+                            <div class="populer-post-img">
+                                <img src="assets/images/populer-post/populer-post-4-8.jpg" alt="Volkswagen Culls Agency Roster By 90% In Efficiency Drive">
+                                <div class="populer-post-info">
+
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">Volkswagen Culls Agency Roster By 90% In Efficiency Drive</a></h2>
+
+                                    <div class="post-social mb-3">
+                                        <div class="comment">
+                                            <a href="index-3.html"><i class="bi bi-geo-alt"></i></a>
+                                            <span>10 comments</span>
+                                        </div>
+                                    </div>
+
+                                    <div class="post-social">
+                                        <div class="like">
+                                            <a href="index-3.html"><i class="bi bi-buildings"></i></a>
+                                            <span>10</span>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- pagenation -->
+        <div class="vlo-pagenation">
+            <div class="container">
+                <ul>
+                    <li><a href="travel-blog.html"><i class="flaticon-arrow-point-to-right"></i></a></li>
+                    <li><a href="travel-blog.html">1</a></li>
+                    <li><a href="travel-blog.html">2</a></li>
+                    <li><a href="travel-blog.html">3</a></li>
+                    <li><a href="travel-blog.html">4</a></li>
+                    <li><a href="travel-blog.html"><i class="flaticon-arrow-point-to-right"></i></a></li>
+                </ul>
+            </div>
+        </div>
  
     </main>
 
-    <footer class="vlo-footer-4">
+   <footer class="vlo-footer-6">
         <div class="container">
-            <div class="footer-logo">
-                <img src="assets/images/logo/logo-4-footer.svg" alt="logo">
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="footer-logo">
+                        <a href="index-2.html"><img src="assets/images/logo/networking-white.svg" alt="logo"></a>
+                        <p>Explicabo cursus veniam Ipsa rem excepturi netus distinctio et Hac expedita pharetra scelerisque imperdiet porttitor fugiat commodo conubia dolorem integer at thrive digital we're about delivering top-notch service to our clients.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-6 col-sm-6 col-6">
+                    <div class="footer-categories-widget">
+                        <h5 class="footer-menu-name">Services</h5>
+                        <ul class="menu-list">
+                            <li><a href="company_formation.php"> Company Formation</a></li>
+                            <li><a href="licensing_regulation.php"> Licensing & Regulation</a></li>
+                            <li><a href="payment-by-networking.php">Payment By Networking</a></li>
+                            <li><a href="tech-by-networking.php"> Tech By Networking</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 col-6">
+                    <div class="footer-pages-widget">
+                        <h5 class="footer-menu-name">Pages</h5>
+                        <ul class="menu-list">
+                            <li><a href="marketing-about.php">About Me</a></li>
+                            <li><a href="">News</a></li>
+                            <li><a href="contact.php">Contact</a></li>
+                            <li><a href=" ">Faq</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6 col-sm-6 col-6">
+                    <div class="footer-support-widget">
+                        <h5 class="footer-menu-name">Support</h5>
+                        <ul class="menu-list">
+                            <li><a href="">Support Center</a></li>
+                            <li><a href="">Feedback</a></li>
+                            <li><a href="">Terms & Condition</a></li>
+                        </ul>
+                    </div>
+                </div>
             </div>
-            <div class="footer-social">
-                <a href="index-4.html"><i class="flaticon-twitter"></i></a>
-                <a href="index-4.html"><i class="flaticon-instagram"></i></a>
-                <a href="index-4.html"><i class="flaticon-linkedin"></i></a>
-                <a href="index-4.html"><i class="flaticon-facebook-app-symbol"></i></a>
-                <a href="index-4.html"><i class="flaticon-vimeo"></i></a>
+            <div class="vlo-footer-inner">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="footer-social">
+                            <a href=""><i class="flaticon-twitter"></i></a>
+                            <a href=""><i class="flaticon-instagram"></i></a>
+                            <a href=""><i class="flaticon-linkedin"></i></a>
+                            <a href=""><i class="flaticon-facebook-app-symbol"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-8">
+                        <div class="footer-news-letter">
+                            <div class="news-letter-heading">
+                                <h2>Sign up to newsletter</h2>
+                            </div>
+                            <div class="news-letter-form">
+                                <div class="vlo-footer-form">
+                                    <form>
+                                        <input type="email" id="email" name="email" placeholder="Email"  autocomplete="off">
+                                        <button type="submit">
+                                            <span>Submit</span>
+                                        </button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="copy-right">
-                Copyright © 2009 - 2023 <a href="thecodude.html">Thecodude</a> Inc.
+                Copyright © 2026 <a href="thecodude.html">Networking</a> Inc.
             </div>
         </div>
     </footer>

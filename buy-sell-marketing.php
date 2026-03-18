@@ -72,7 +72,7 @@
         </div>
     </header>
 
-    <main class="vlo-marketing-about">
+    <main class="">
         <div class="vlo-title-bar-1 marketing-titlebar-bg">
             <h1>Buy/Sell Bussinesses</h1>
         </div>
@@ -151,7 +151,7 @@
                                 <div class="populer-post-info">
                                     <div class="populer-post-date">
                                     </div>
-                                    <h2 class="populer-post-title"><a href="post-details.html">Engage Your Audience Right Is That Really Simple?</a></h2>
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">Engage Your Audience Right Is That Really Simple?</a></h2>
 
                                     <div class="post-social mb-3">
                                         <div class="comment">
@@ -177,7 +177,7 @@
                                 <img src="assets/images/populer-post/populer-post-4-4.jpg" alt="What Is The Stunning Secret Behind  Spotify Success">
                                 <div class="populer-post-info">
 
-                                    <h2 class="populer-post-title"><a href="post-details.html">What Is The Stunning Secret Behind Spotify Success</a></h2>
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">What Is The Stunning Secret Behind Spotify Success</a></h2>
 
                                     <div class="post-social">
                                         <div class="comment mb-3">
@@ -202,7 +202,7 @@
                                 <img src="assets/images/populer-post/populer-post-4-5.jpg" alt="Search Engine Optimization Good Practices Guide for All">
                                 <div class="populer-post-info">
 
-                                    <h2 class="populer-post-title"><a href="post-details.html">Search Engine Optimization Good Practices Guide for All</a></h2>
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">Search Engine Optimization Good Practices Guide for All</a></h2>
 
                                     <div class="post-social mb-3">
                                         <div class="comment">
@@ -228,7 +228,7 @@
                                 <img src="assets/images/populer-post/populer-post-4-6.jpg" alt="What Is The Stunning Secret Just Behind of Spotify Success?">
                                 <div class="populer-post-info">
 
-                                    <h2 class="populer-post-title"><a href="post-details.html">What Is The Stunning Secret Just Behind of Spotify Success?</a></h2>
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">What Is The Stunning Secret Just Behind of Spotify Success?</a></h2>
 
                                     <div class="post-social mb-3">
                                         <div class="comment">
@@ -253,7 +253,7 @@
                                 <img src="assets/images/populer-post/populer-post-4-7.jpg" alt="Be Succesfull With Your Social Media Marketing Strategy">
                                 <div class="populer-post-info">
 
-                                    <h2 class="populer-post-title"><a href="post-details.html">Be Succesfull With Your Social Media Marketing Strategy</a></h2>
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">Be Succesfull With Your Social Media Marketing Strategy</a></h2>
 
                                     <div class="post-social mb-3">
                                         <div class="comment">
@@ -278,7 +278,7 @@
                                 <img src="assets/images/populer-post/populer-post-4-7.jpg" alt="Social Media Geeks Conference Impressions from London">
                                 <div class="populer-post-info">
 
-                                    <h2 class="populer-post-title"><a href="post-details.html">Social Media Geeks Conference Impressions from London</a></h2>
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">Social Media Geeks Conference Impressions from London</a></h2>
 
                                     <div class="post-social mb-3">
                                         <div class="comment">
@@ -303,7 +303,7 @@
                                 <img src="assets/images/populer-post/populer-post-4-7.jpg" alt="Machine Learning In Analytics To Limit Healthcare Fraud">
                                 <div class="populer-post-info">
 
-                                    <h2 class="populer-post-title"><a href="post-details.html">Social Media Geeks Conference Impressions from London</a></h2>
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">Social Media Geeks Conference Impressions from London</a></h2>
 
                                     <div class="post-social mb-3">
                                         <div class="comment">
@@ -329,7 +329,7 @@
                                 <img src="assets/images/populer-post/populer-post-4-8.jpg" alt="Don't Lose Retirement Benefits When Changing Jobs">
                                 <div class="populer-post-info">
 
-                                    <h2 class="populer-post-title"><a href="post-details.html">Don't Lose Retirement Benefits When Changing Jobs</a></h2>
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">Don't Lose Retirement Benefits When Changing Jobs</a></h2>
 
                                     <div class="post-social mb-3">
                                         <div class="comment">
@@ -355,7 +355,7 @@
                                 <img src="assets/images/populer-post/populer-post-4-8.jpg" alt="Volkswagen Culls Agency Roster By 90% In Efficiency Drive">
                                 <div class="populer-post-info">
 
-                                    <h2 class="populer-post-title"><a href="post-details.html">Volkswagen Culls Agency Roster By 90% In Efficiency Drive</a></h2>
+                                    <h2 class="populer-post-title"><a href="marketing-blog-details.php">Volkswagen Culls Agency Roster By 90% In Efficiency Drive</a></h2>
 
                                     <div class="post-social mb-3">
                                         <div class="comment">
@@ -394,24 +394,83 @@
         </div>
     </main>
 
-    <footer class="vlo-footer-4">
+     <footer class="vlo-footer-6">
         <div class="container">
-            <div class="footer-logo">
-                <img src="assets/images/logo/logo-4-footer.svg" alt="logo">
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="footer-logo">
+                        <a href="index-2.html"><img src="assets/images/logo/networking-white.svg" alt="logo"></a>
+                        <p>Explicabo cursus veniam Ipsa rem excepturi netus distinctio et Hac expedita pharetra scelerisque imperdiet porttitor fugiat commodo conubia dolorem integer at thrive digital we're about delivering top-notch service to our clients.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-6 col-sm-6 col-6">
+                    <div class="footer-categories-widget">
+                        <h5 class="footer-menu-name">Services</h5>
+                        <ul class="menu-list">
+                            <li><a href="company_formation.php"> Company Formation</a></li>
+                            <li><a href="licensing_regulation.php"> Licensing & Regulation</a></li>
+                            <li><a href="payment-by-networking.php">Payment By Networking</a></li>
+                            <li><a href="tech-by-networking.php"> Tech By Networking</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 col-6">
+                    <div class="footer-pages-widget">
+                        <h5 class="footer-menu-name">Pages</h5>
+                        <ul class="menu-list">
+                            <li><a href="marketing-about.php">About Me</a></li>
+                            <li><a href="">News</a></li>
+                            <li><a href="contact.php">Contact</a></li>
+                            <li><a href=" ">Faq</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6 col-sm-6 col-6">
+                    <div class="footer-support-widget">
+                        <h5 class="footer-menu-name">Support</h5>
+                        <ul class="menu-list">
+                            <li><a href="">Support Center</a></li>
+                            <li><a href="">Feedback</a></li>
+                            <li><a href="">Terms & Condition</a></li>
+                        </ul>
+                    </div>
+                </div>
             </div>
-            <div class="footer-social">
-                <a href="index-4.html"><i class="flaticon-twitter"></i></a>
-                <a href="index-4.html"><i class="flaticon-instagram"></i></a>
-                <a href="index-4.html"><i class="flaticon-linkedin"></i></a>
-                <a href="index-4.html"><i class="flaticon-facebook-app-symbol"></i></a>
-                <a href="index-4.html"><i class="flaticon-vimeo"></i></a>
+            <div class="vlo-footer-inner">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="footer-social">
+                            <a href=""><i class="flaticon-twitter"></i></a>
+                            <a href=""><i class="flaticon-instagram"></i></a>
+                            <a href=""><i class="flaticon-linkedin"></i></a>
+                            <a href=""><i class="flaticon-facebook-app-symbol"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-8">
+                        <div class="footer-news-letter">
+                            <div class="news-letter-heading">
+                                <h2>Sign up to newsletter</h2>
+                            </div>
+                            <div class="news-letter-form">
+                                <div class="vlo-footer-form">
+                                    <form>
+                                        <input type="email" id="email" name="email" placeholder="Email"  autocomplete="off">
+                                        <button type="submit">
+                                            <span>Submit</span>
+                                        </button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="copy-right">
-                Copyright © 2009 - 2023 <a href="thecodude.html">Thecodude</a> Inc.
+                Copyright © 2026 <a href="thecodude.html">Networking</a> Inc.
             </div>
         </div>
     </footer>
-
+    
     <div class="toTop">
         <img src="assets/images/icon/rocket.svg" alt="toTop">
     </div>
