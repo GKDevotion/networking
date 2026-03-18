@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="assets/css/elements/tags.css">
     <link rel="stylesheet" href="assets/css/elements/populer-posts.css">
     <link rel="stylesheet" href="assets/css/elements/instagram.css">
-    <link rel="stylesheet" href="assets/css/elements/post-slider.css"> 
+    <link rel="stylesheet" href="assets/css/elements/post-slider.css">
     <link rel="stylesheet" href="assets/css/styles.css">
 
     <link rel="stylesheet" href="assets/css/responsive.css">
@@ -597,7 +597,65 @@
                 </div>
             </div>
         </div>
+
+        <div class="services-wrapper">
  
+            <!-- Two side-by-side -->
+            <a class="card" href="#">
+                <div class="card-line"></div>
+                <div class="card-num">01</div>
+                <span class="card-icon">🏢</span>
+                <div class="card-title">Company Formation</div>
+                <div class="card-desc">Swift and seamless incorporation in your target jurisdiction, tailored to your operational and tax objectives.</div>
+                <div class="card-cta">Explore
+                    <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                        <path d="M5 12h14M12 5l7 7-7 7" />
+                    </svg>
+                </div>
+            </a>
+
+            <a class="card" href="#">
+                <div class="card-line"></div>
+                <div class="card-num">02</div>
+                <span class="card-icon">🏦</span>
+                <div class="card-title">Banking & Payments</div>
+                <div class="card-desc">Corporate bank account opening, multi-currency payment infrastructure, and EMI solutions for businesses operating worldwide.</div>
+                <div class="card-cta">Explore
+                    <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                        <path d="M5 12h14M12 5l7 7-7 7" />
+                    </svg>
+                </div>
+            </a>
+
+            <!-- Two side-by-side -->
+            <a class="card" href="#">
+                <div class="card-line"></div>
+                <div class="card-num">03</div>
+                <span class="card-icon">📋</span>
+                <div class="card-title">Licensing & Regulations</div>
+                <div class="card-desc">Regulatory licensing for fintech, gambling, crypto and more. We guide you through every step of the compliance process.</div>
+                <div class="card-cta">Explore
+                    <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                        <path d="M5 12h14M12 5l7 7-7 7" />
+                    </svg>
+                </div>
+            </a>
+
+            <a class="card" href="#">
+                <div class="card-line"></div>
+                <div class="card-num">04</div>
+                <span class="card-icon">⚙️</span>
+                <div class="card-title">Operations Management</div>
+                <div class="card-desc">Outsourced operations including HR, payroll, bookkeeping, IT infrastructure, and back-office support for lean, scalable businesses.</div>
+                <div class="card-cta">Explore
+                    <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                        <path d="M5 12h14M12 5l7 7-7 7" />
+                    </svg>
+                </div>
+            </a> 
+
+        </div> 
+
         <div class="services-grid my-5">
 
             <div class="service-card">
@@ -647,8 +705,8 @@
 
 
 
-        </div> 
-        
+        </div>
+
         <div class="container">
             <div class="row g-3 mb-3">
                 <h2 class="text-center">Latest News & Articles</h2>
@@ -689,7 +747,7 @@
                 </div>
 
             </div>
-        </div> 
+        </div>
 
         <!-- post slider -->
         <div class="vlo-post-slider-1 d-none">
@@ -1020,7 +1078,7 @@
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/swiper-bundle.min.js"></script>
     <script src="assets/js/acmeticker.min.js"></script>
-    <script src="assets/js/magnific-popup.min.js"></script> 
+    <script src="assets/js/magnific-popup.min.js"></script>
     <!-- main js  -->
     <script src="assets/js/main.js"></script>
 
