@@ -6,7 +6,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta name="description" content="Vlogi - Personal Blog Template">
       <meta name="keywords" content="blog,personal,photography,food,travel,agency,portfolio,developer,photographer">
-      <title> Contact Page </title>
+      <title>Networking - Contact Us </title>
       <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
        <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/css/fonts/flaticon_networking.css">

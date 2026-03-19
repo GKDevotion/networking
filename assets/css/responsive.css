@@ -464,13 +464,13 @@
         z-index: 100;
         background: #fff;
         box-shadow: 0 15px 40px rgba(0, 0, 0, 0.066);
-        padding: 15px 0;
+        padding: 10px 0;
         left: 0;
         border-radius: 4px;
         visibility: hidden;
         opacity: 0;
         transition: 0.3s;
-        min-width: 230px;
+        min-width: 250px;
         margin-left: 0;
         transform: translateY(15px);
     }

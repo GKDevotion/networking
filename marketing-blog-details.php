@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Networking - Personal Blog Template">
     <meta name="keywords" content="blog,personal,photography,food,travel,agency,portfolio,developer,photographer">
-    <title> Marketing Blog Details </title>
+    <title>Networking - Blog Details </title>
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
 
     <!-- Stylesheet -->

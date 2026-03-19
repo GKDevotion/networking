@@ -67,7 +67,7 @@ $jurisdictions = $regions[$active_region];
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Vlogi - Personal Blog Template">
     <meta name="keywords" content="blog,personal,photography,food,travel,agency,portfolio,developer,photographer">
-    <title> Home Variation 3 </title>
+    <title>Networking - Company Formation</title>
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
     
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">

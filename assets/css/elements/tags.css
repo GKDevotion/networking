@@ -154,19 +154,19 @@
 }
 
 .vlo-populer-tag-4 .vlo-tags-2 a {
-    height: 120px;
-    line-height: 120px;
+    height: 105px;
+    line-height: 105px;
     display: block;
     border-radius: 20px;
     background: rgb(45 51 61 / 4%);
-    margin: 0 15px 30px 15px;
-    padding: 0 20px 0 20px;
+    margin: 0 15px 15px 0px;
+    padding: 0 20px;
     color: #000;
     font-size: 18px;
 }
 
 .vlo-populer-tag-4 .vlo-tags-2 img {
-    margin-right: 20px;
+    margin-right: 5px;
     max-width: 100%;
 }
 
@@ -186,26 +186,27 @@
 }
 
 .vlo-populer-tag-4 .vlo-tags-2 .tag-title-4 {
-    height: 120px;
-    line-height: 120px;
+    height: 105px;
+    line-height: 105px;
     text-align: center;
     display: block;
     border-radius: 20px;
     background: #0974E4;
-    margin: 0 15px 30px 15px;
-    padding: 0 28px 0 25px;
+    margin: 0 15px 15px 0px;
+    padding: 0 28px;
     color: #ffffff;
     font-size: 23px;
     font-weight: 700;
 }
 
 .vlo-populer-tag-4 .vlo-tags-2 .view-all {
-    height: 120px;
-    line-height: 120px;
+    height: 105px;
+    line-height: 105px;
     text-align: center;
     background: #0974E4;
     color: #ffffff;
     font-size: 30px;
     font-weight: 700;
-    padding: 0 64px 0 70px;
+    margin: 0 15px 15px 0px;
+    padding: 0 65px;
 }

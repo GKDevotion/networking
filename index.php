@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Vlogi - Personal Blog Template">
     <meta name="keywords" content="blog,personal,photography,food,travel,agency,portfolio,developer,photographer">
-    <title> Home Variation 3 </title>
+    <title>Networking - A Global Network Of E-Business Solutions</title>
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
 
     <!-- Stylesheet -->
@@ -603,9 +603,8 @@
             <!-- Two side-by-side -->
             <a class="card" href="#">
                 <div class="card-line"></div>
-                <div class="card-num">01</div>
-                <span class="card-icon">🏢</span>
-                <div class="card-title">Company Formation</div>
+                <div class="card-num">01</div> 
+                <div class="card-title-service">Company Formation</div>
                 <div class="card-desc">Swift and seamless incorporation in your target jurisdiction, tailored to your operational and tax objectives.</div>
                 <div class="card-cta">Explore
                     <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
@@ -616,9 +615,8 @@
 
             <a class="card" href="#">
                 <div class="card-line"></div>
-                <div class="card-num">02</div>
-                <span class="card-icon">🏦</span>
-                <div class="card-title">Banking & Payments</div>
+                <div class="card-num">02</div> 
+                <div class="card-title-service">Banking & Payments</div>
                 <div class="card-desc">Corporate bank account opening, multi-currency payment infrastructure, and EMI solutions for businesses operating worldwide.</div>
                 <div class="card-cta">Explore
                     <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
@@ -626,13 +624,11 @@
                     </svg>
                 </div>
             </a>
-
-            <!-- Two side-by-side -->
+ 
             <a class="card" href="#">
                 <div class="card-line"></div>
-                <div class="card-num">03</div>
-                <span class="card-icon">📋</span>
-                <div class="card-title">Licensing & Regulations</div>
+                <div class="card-num">03</div> 
+                <div class="card-title-service">Licensing & Regulations</div>
                 <div class="card-desc">Regulatory licensing for fintech, gambling, crypto and more. We guide you through every step of the compliance process.</div>
                 <div class="card-cta">Explore
                     <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
@@ -643,9 +639,8 @@
 
             <a class="card" href="#">
                 <div class="card-line"></div>
-                <div class="card-num">04</div>
-                <span class="card-icon">⚙️</span>
-                <div class="card-title">Operations Management</div>
+                <div class="card-num">04</div> 
+                <div class="card-title-service">Operations Management</div>
                 <div class="card-desc">Outsourced operations including HR, payroll, bookkeeping, IT infrastructure, and back-office support for lean, scalable businesses.</div>
                 <div class="card-cta">Explore
                     <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
