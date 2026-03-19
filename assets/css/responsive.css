@@ -542,7 +542,7 @@
     }
 
     .vlo-header-1.transparent .vlo-main-menu .nav-menu > li > a {
-        color: #fff !important;
+        color: #000 !important;
     }
 
     .vlo-header-1.transparent .vlo-main-menu .nav-menu li ul.sub-menu li a {

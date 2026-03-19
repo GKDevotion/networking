@@ -262,12 +262,13 @@ ul {
 
 .vlo-global-btn {
   padding: 21px 35px;
-  background-color: #2d333d;
-  color: #fff !important;
+  background-color: #dee2ec;
+  color: #000 !important;
   font-weight: 500;
   transition: 0.3s ease;
   margin-left: 80px;
   display: block;
+  border-radius: 100px;
 }
 
 .vlo-global-btn-2 {
@@ -370,7 +371,7 @@ ul {
 }
 
 .vlo-header-1 {
-  padding-top: 50px;
+  padding-top: 30px;
 }
 
 .vlo-header-1 .vlo-header-inner {
@@ -1527,7 +1528,7 @@ ul {
   font-size: 20px;
   line-height: 30px;
   text-align: center;
-  color: #ffffff !important;
+  color: #000 !important;
   background-color: #fdc92e;
   padding: 22px 10px 22px 24px;
   border-radius: 150px;
@@ -1612,8 +1613,8 @@ ul {
   text-align: center;
   display: flex;
   align-items: center;
-  justify-content: center;
-  margin-top: 100px;
+  justify-content: start;
+  margin-top: 60px;
 }
 
 .tcd-swiper-navigation-wrap > div {
@@ -1893,11 +1894,11 @@ ul {
 }
 
 .vlo-marketing .vlo-global-btn {
-  background-color: #0974e4;
+  background-color: #dee2ec;
   border-radius: 150px;
   position: relative;
   z-index: 1;
-  color: #fff !important;
+  color: #000 !important;
 }
 
 .vlo-header-1.transparent .navbar-list li a {
@@ -1922,7 +1923,7 @@ ul {
   font-weight: 700;
   font-size: 60px;
   line-height: 75px;
-  color: #ffffff;
+  color: #000;
   margin-bottom: 30px;
 }
 
@@ -1992,7 +1993,7 @@ ul {
   font-weight: 500;
   font-size: 18px;
   line-height: 28px;
-  color: #ffffff !important;
+  color: #000 !important;
   opacity: 0.8;
   max-width: 632px;
   margin-bottom: 66px;
@@ -2003,8 +2004,8 @@ ul {
   font-size: 20px;
   line-height: 30px;
   text-align: center;
-  color: #2d333d !important;
-  background-color: #fff;
+  color: #000 !important;
+  background-color: #dee2ec;
   padding: 22px 40px 22px 24px;
   border-radius: 150px;
 }
@@ -2034,14 +2035,14 @@ ul {
   content: "";
   position: absolute;
   left: 0;
-  top: 0;
-  background-image: url(../images/shape/banner-4.svg);
+  top: 0; 
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
   min-height: 800px;
-  width: 85%;
+  width: 100%;
   z-index: -1;
+  background: aliceblue;
 }
 
 .vlo-banner-4 .banner-img {
@@ -2104,9 +2105,7 @@ ul {
   padding-top: 30px;
 }
 
-.vlo-banner-4 .tcd-swiper-navigation-wrap {
-  margin-top: 200px;
-}
+ 
 
 .vlo-banner-4 .tcd-swiper-navigation-wrap .swiper-button-prev,
 .vlo-banner-4 .tcd-swiper-navigation-wrap .swiper-button-next {
@@ -2581,7 +2580,7 @@ ul {
 
 .vlo-title-bar-1 {
   padding: 152px 0;
-  margin: 50px 0;
+  margin: 30px 0;
 }
 
 .vlo-title-bar-1 h1 {
