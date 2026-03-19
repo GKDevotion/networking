@@ -550,7 +550,7 @@
     }
 
     .vlo-header-1.transparent .vlo-main-menu .nav-menu > li > a:after {
-        background-color: #fff !important;
+        background-color: #000 !important;
     }
 
     .vlo-header-1.transparent .vlo-main-menu .nav-menu li ul.sub-menu li a:hover {

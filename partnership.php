@@ -268,12 +268,12 @@ $meta_keywords = "business partnership, partnership opportunities, strategic par
                              data-bs-target="#faq4"
                              aria-expanded="false"
                              aria-controls="faq4">
-                             What industries does ClearSky Network cater to?
+                             What industries does Networking Network cater to?
                          </button>
                      </h2>
                      <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                          <div class="accordion-body">
-                             ClearSky Network caters to a wide range of online industries including fintech, cryptocurrency,
+                             Networking Network caters to a wide range of online industries including fintech, cryptocurrency,
                              e-commerce, online gaming, digital marketing, and more.
                          </div>
                      </div>

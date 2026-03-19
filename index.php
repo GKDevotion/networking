@@ -96,12 +96,54 @@
                        </div>
                    </div>
                    <div class="col-lg-4">
+                    
                        <div class="banner-img">
                            <div class="banner-shape">
                                <img src="assets/images/shape/paper-plen.svg" alt="paper-plen">
                            </div>
 
                        </div>
+                           <!-- RIGHT: Image -->
+    <div class="right-col">
+      <div class="ring ring-1"></div>
+      <div class="ring ring-2"></div>
+ 
+      <div class="image-frame">
+        <!-- Replace src below with your actual image path -->
+        <img src="assets/images/posts/post-4-2.jpg"
+             onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+             alt="Business Illustration" />
+        <div class="image-placeholder">
+          <div class="icon-circle">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/>
+              <polyline points="9 22 9 12 15 12 15 22"/>
+            </svg>
+          </div>
+          <span>Your Image Here</span>
+        </div>
+      </div>
+ 
+      <!-- Stats floating card -->
+      <div class="stats-card">
+        <div class="stats-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
+          </svg>
+        </div>
+        <div class="stats-text">
+          <strong>2,500+</strong>
+          <span>Businesses Listed</span>
+        </div>
+      </div>
+ 
+      <!-- Badge floating card -->
+      <div class="badge-card">
+        <strong>98%</strong>
+        <span>Client Satisfaction</span>
+      </div>
+    </div>
+ 
                    </div>
                </div>
            </div>
@@ -112,13 +154,13 @@
            <div class="container">
                <div class="vlo-tags-2">
                    <span class="tag-title-4">Popular Industry</span>
-                   <a href="index-4.html"><img src="assets/images/tags/tag-4-1.jpg" alt="Soup"> i Gaming <span><i class="flaticon-arrow-pointing-to-right"></i></span></a>
-                   <a href="index-4.html"><img src="assets/images/tags/tag-4-2.jpg" alt="Drinks">Fintech<span><i class="flaticon-arrow-pointing-to-right"></i></span></a>
-                   <a href="index-4.html"><img src="assets/images/tags/tag-4-3.jpg" alt="Brackfast"> Gambling<span><i class="flaticon-arrow-pointing-to-right"></i></span></a>
-                   <a href="index-4.html"><img src="assets/images/tags/tag-4-4.jpg" alt="Deserts">Financial Institution<span><i class="flaticon-arrow-pointing-to-right"></i></span></a>
-                   <a href="index-4.html"><img src="assets/images/tags/tag-4-5.jpg" alt="Pasta">Corporate Structures <span><i class="flaticon-arrow-pointing-to-right"></i></span></a>
-                   <a href="index-4.html"><img src="assets/images/tags/tag-4-6.jpg" alt="Berger">Crypto & Blockchain<span><i class="flaticon-arrow-pointing-to-right"></i></span></a>
-                   <a class="view-all" href="index-4.html">View All</a>
+                   <a href=""><img src="assets/images/tags/tag-4-1.jpg" alt="Soup"> i Gaming <span><i class="flaticon-arrow-pointing-to-right"></i></span></a>
+                   <a href=""><img src="assets/images/tags/tag-4-2.jpg" alt="Drinks">Fintech<span><i class="flaticon-arrow-pointing-to-right"></i></span></a>
+                   <a href=""><img src="assets/images/tags/tag-4-3.jpg" alt="Brackfast"> Gambling<span><i class="flaticon-arrow-pointing-to-right"></i></span></a>
+                   <a href=""><img src="assets/images/tags/tag-4-4.jpg" alt="Deserts">Financial Institution<span><i class="flaticon-arrow-pointing-to-right"></i></span></a>
+                   <a href=""><img src="assets/images/tags/tag-4-5.jpg" alt="Pasta">Corporate Structures <span><i class="flaticon-arrow-pointing-to-right"></i></span></a>
+                   <a href=""><img src="assets/images/tags/tag-4-6.jpg" alt="Berger">Crypto & Blockchain<span><i class="flaticon-arrow-pointing-to-right"></i></span></a>
+                   <a class="view-all" href="">View All</a>
                </div>
            </div>
        </div>
